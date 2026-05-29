@@ -1,0 +1,199 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5]: 🥇
+        - generic [ref=e6]: ForexAI
+      - generic [ref=e9]: 实盘数据
+    - navigation [ref=e10]:
+      - button "XAU/USD 黄金" [ref=e11] [cursor=pointer]:
+        - text: XAU/USD
+        - generic [ref=e12]: 黄金
+      - button "EUR/USD 欧元" [ref=e13] [cursor=pointer]:
+        - text: EUR/USD
+        - generic [ref=e14]: 欧元
+      - button "GBP/USD 英镑" [ref=e15] [cursor=pointer]:
+        - text: GBP/USD
+        - generic [ref=e16]: 英镑
+    - generic [ref=e18]: PRO
+  - generic [ref=e20]: 赞助商广告位
+  - main [ref=e21]:
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - generic [ref=e25]: TradingView 图表
+          - button "📸 截图" [ref=e27] [cursor=pointer]
+        - iframe [ref=e31]:
+          
+      - generic [ref=e32]:
+        - generic [ref=e33]:
+          - generic [ref=e34]:
+            - button "1分" [ref=e35] [cursor=pointer]
+            - button "5分" [ref=e36] [cursor=pointer]
+            - button "15分" [ref=e37] [cursor=pointer]
+            - button "30分" [ref=e38] [cursor=pointer]
+            - button "1时" [ref=e39] [cursor=pointer]
+            - button "4时" [ref=e40] [cursor=pointer]
+            - button "日线" [ref=e41] [cursor=pointer]
+          - generic [ref=e42]:
+            - generic [ref=e43]: XAUUSD
+            - generic [ref=e44]: 日线
+        - table [ref=e47]:
+          - row "Charting by TradingView" [ref=e48]:
+            - cell
+            - cell "Charting by TradingView" [ref=e49]:
+              - link "Charting by TradingView" [ref=e53] [cursor=pointer]:
+                - /url: https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=localhost/
+                - img [ref=e54]
+            - cell [ref=e58]
+          - row [ref=e62]:
+            - cell
+            - cell [ref=e63]
+            - cell [ref=e67]
+    - generic [ref=e70]:
+      - generic [ref=e71]:
+        - generic [ref=e72]:
+          - text: XAUUSD 实时价格
+          - generic [ref=e73]:
+            - generic [ref=e74]: "4548.62"
+            - generic [ref=e75]: +52.25 (+1.162%)
+        - generic [ref=e76]:
+          - generic [ref=e77]:
+            - generic [ref=e78]: 当日高
+            - generic [ref=e79]: "4549.59"
+          - generic [ref=e80]:
+            - generic [ref=e81]: 当日低
+            - generic [ref=e82]: "4489.49"
+          - generic [ref=e83]:
+            - generic [ref=e84]: 成交量
+            - generic [ref=e85]: "--"
+          - generic [ref=e86]:
+            - generic [ref=e87]: 更新
+            - generic [ref=e88]: 22:08:52
+      - generic [ref=e89]:
+        - generic [ref=e90]:
+          - generic [ref=e91]: 🤖
+          - generic [ref=e92]: AI 技术分析
+          - generic [ref=e93]: 免费
+        - generic [ref=e94]:
+          - button "单周期" [ref=e95] [cursor=pointer]
+          - button "多时间框架" [ref=e96] [cursor=pointer]
+        - generic [ref=e97]:
+          - generic [ref=e98]:
+            - generic [ref=e99]: 当前价格
+            - generic [ref=e100]: "4548.62"
+          - generic [ref=e101]:
+            - generic [ref=e102]: 趋势方向
+            - generic [ref=e103]: 📈 上升
+          - generic [ref=e105]:
+            - generic [ref=e106]: RSI (14)
+            - generic [ref=e107]: 68.7 中性
+          - generic [ref=e108]:
+            - generic [ref=e109]: MACD
+            - generic [ref=e110]: "20.54"
+          - generic [ref=e111]:
+            - generic [ref=e112]: 布林带位置
+            - generic [ref=e113]: 上轨附近
+          - generic [ref=e114]:
+            - generic [ref=e115]: ATR (14)
+            - generic [ref=e116]: $17.16
+          - generic [ref=e118]:
+            - generic [ref=e119]: 枢轴点 P
+            - generic [ref=e120]: "4529.24"
+          - generic [ref=e121]:
+            - generic [ref=e122]: 支撑 S1
+            - generic [ref=e123]: "4367.19"
+          - generic [ref=e124]:
+            - generic [ref=e125]: 支撑 S2
+            - generic [ref=e126]: "4402.38"
+          - generic [ref=e127]:
+            - generic [ref=e128]: 阻力 R1
+            - generic [ref=e129]: "4773.50"
+          - generic [ref=e130]:
+            - generic [ref=e131]: 阻力 R2
+            - generic [ref=e132]: "4746.76"
+          - generic [ref=e134]:
+            - generic [ref=e135]: ⚪ 偏多
+            - generic [ref=e136]: 无明显信号
+          - generic [ref=e137]:
+            - generic [ref=e138]: 信心指数
+            - generic [ref=e141]: 3/5
+      - generic [ref=e143]: 广告位
+      - generic [ref=e144]:
+        - generic [ref=e145]:
+          - generic [ref=e146]: 📊
+          - generic [ref=e147]: 技术指标详情
+          - generic [ref=e148]: 免费
+        - generic [ref=e150]:
+          - generic [ref=e151]:
+            - generic [ref=e152]:
+              - generic [ref=e153]: RSI (14)
+              - generic [ref=e154]: "68.7"
+            - generic [ref=e155]: 中性
+          - generic [ref=e156]:
+            - generic [ref=e157]:
+              - generic [ref=e158]: MACD (12,26,9)
+              - generic [ref=e159]: "20.54"
+            - generic [ref=e160]: 信号 16.58 | 柱 3.96
+          - generic [ref=e162]:
+            - generic [ref=e163]: SMA 20
+            - generic [ref=e164]: "4514.59"
+          - generic [ref=e166]:
+            - generic [ref=e167]: SMA 50
+            - generic [ref=e168]: "4465.20"
+          - generic [ref=e170]:
+            - generic [ref=e171]: SMA 200
+            - generic [ref=e172]: "4507.06"
+          - generic [ref=e174]:
+            - generic [ref=e175]: 布林带上轨
+            - generic [ref=e176]: "4549.01"
+          - generic [ref=e177]:
+            - generic [ref=e178]:
+              - generic [ref=e179]: 布林带下轨
+              - generic [ref=e180]: "4480.17"
+            - generic [ref=e181]: "带宽: 1.52%"
+          - generic [ref=e183]:
+            - generic [ref=e184]: ATR (14)
+            - generic [ref=e185]: $17.16
+      - generic [ref=e186]:
+        - generic [ref=e187]:
+          - generic [ref=e188]: 📰
+          - generic [ref=e189]: 市场快讯
+          - generic [ref=e190]: 免费
+        - generic [ref=e191]:
+          - generic [ref=e194]:
+            - text: 黄金日内关注
+            - strong [ref=e195]: 关注阻力 4773.50 突破
+          - generic [ref=e198]:
+            - text: "波动率:"
+            - strong [ref=e199]: ATR $17.16 (0.38%)
+          - generic [ref=e202]:
+            - text: "趋势强度:"
+            - strong [ref=e203]: 📈 强烈上升
+      - generic [ref=e205]:
+        - generic [ref=e206]: 🔑
+        - heading "解锁 PRO 功能" [level=3] [ref=e207]
+        - list [ref=e208]:
+          - listitem [ref=e209]: ✦ 多时间框架同步分析
+          - listitem [ref=e210]: ✦ 实时价格警报推送
+          - listitem [ref=e211]: ✦ 自定义策略回测
+          - listitem [ref=e212]: ✦ 每日交易策略报告
+          - listitem [ref=e213]: ✦ Pine Script 策略下载
+        - button "升级 PRO" [ref=e214] [cursor=pointer]
+  - generic [ref=e216]: 赞助商广告位
+  - contentinfo [ref=e217]:
+    - generic [ref=e218]:
+      - generic [ref=e219]:
+        - generic [ref=e220]: ForexAI
+        - paragraph [ref=e221]: 专业外汇黄金智能分析平台
+      - generic [ref=e222]:
+        - link "隐私政策" [ref=e223] [cursor=pointer]:
+          - /url: "#"
+        - link "使用条款" [ref=e224] [cursor=pointer]:
+          - /url: "#"
+        - link "风险声明" [ref=e225] [cursor=pointer]:
+          - /url: "#"
+        - link "联系我们" [ref=e226] [cursor=pointer]:
+          - /url: "#"
+    - paragraph [ref=e228]: ⚠️ 风险提示：外汇及差价合约交易具有高风险，可能导致损失全部本金。本网站提供的分析仅供参考，不构成投资建议。
+    - generic [ref=e229]: © 2025 ForexAI. All rights reserved.

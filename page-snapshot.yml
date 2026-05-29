@@ -1,0 +1,283 @@
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5]: 🥇
+        - generic [ref=e6]: ForexAI
+      - generic [ref=e9]: 数据错误
+    - navigation [ref=e10]:
+      - button "XAU/USD 黄金" [ref=e11] [cursor=pointer]:
+        - text: XAU/USD
+        - generic [ref=e12]: 黄金
+      - button "EUR/USD 欧元" [ref=e13] [cursor=pointer]:
+        - text: EUR/USD
+        - generic [ref=e14]: 欧元
+      - button "GBP/USD 英镑" [ref=e15] [cursor=pointer]:
+        - text: GBP/USD
+        - generic [ref=e16]: 英镑
+    - generic [ref=e18]: PRO
+  - generic [ref=e20]: 赞助商广告位
+  - main [ref=e21]:
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - generic [ref=e25]: TradingView 图表
+          - button "📸 截图" [ref=e27] [cursor=pointer]
+        - iframe [active] [ref=e31]:
+          - generic [ref=f1e1]:
+            - generic [ref=f1e2]:
+              - toolbar [ref=f1e6]:
+                - generic [ref=f1e10]:
+                  - generic [ref=f1e12]:
+                    - radiogroup [ref=f1e13]:
+                      - radio "1 分钟" [disabled] [ref=f1e14]:
+                        - generic [ref=f1e16]: 1分
+                      - radio "30 分钟" [disabled] [ref=f1e17]:
+                        - generic [ref=f1e19]: 30分
+                      - radio "1 小时" [checked] [disabled] [ref=f1e20]:
+                        - generic [ref=f1e22]: 1小时
+                    - button "图表周期" [ref=f1e23]:
+                      - img [ref=f1e26]:
+                        - img [ref=f1e27]
+                  - generic [ref=f1e32]:
+                    - radiogroup [ref=f1e33]:
+                      - radio "美国线" [disabled] [ref=f1e34]:
+                        - img [ref=f1e35]:
+                          - img [ref=f1e36]
+                      - radio "K线图" [checked] [disabled] [ref=f1e38]:
+                        - img [ref=f1e39]:
+                          - img [ref=f1e40]
+                      - radio "面积图" [disabled] [ref=f1e45]:
+                        - img [ref=f1e46]:
+                          - img [ref=f1e47]
+                    - button "图表样式" [ref=f1e49]:
+                      - img [ref=f1e52]:
+                        - img [ref=f1e53]
+                  - button "比较商品" [ref=f1e58]:
+                    - img [ref=f1e59]:
+                      - img [ref=f1e60]
+                  - button "指标、衡量标准和策略" [ref=f1e67]:
+                    - img [ref=f1e68]:
+                      - img [ref=f1e69]
+                    - generic [ref=f1e72]: 指标
+              - toolbar [ref=f1e75]:
+                - generic [ref=f1e79]:
+                  - generic [ref=f1e80]:
+                    - generic [ref=f1e83]:
+                      - button "十字线" [ref=f1e85]:
+                        - img [ref=f1e86]:
+                          - img [ref=f1e87]
+                      - button "光标" [pressed] [ref=f1e91]:
+                        - img [ref=f1e92]:
+                          - img [ref=f1e93]
+                    - generic [ref=f1e97]:
+                      - button "趋势线" [ref=f1e99]:
+                        - img [ref=f1e100]:
+                          - img [ref=f1e101]
+                      - button "趋势工具" [ref=f1e105]:
+                        - img [ref=f1e106]:
+                          - img [ref=f1e107]
+                    - generic [ref=f1e111]:
+                      - button "斐波那契回撤" [ref=f1e113]:
+                        - img [ref=f1e114]:
+                          - img [ref=f1e115]
+                      - button "江恩和斐波那契工具" [ref=f1e122]:
+                        - img [ref=f1e123]:
+                          - img [ref=f1e124]
+                    - generic [ref=f1e128]:
+                      - button "XABCD形态" [ref=f1e130]:
+                        - img [ref=f1e131]:
+                          - img [ref=f1e132]
+                      - button "形态" [ref=f1e136]:
+                        - img [ref=f1e137]:
+                          - img [ref=f1e138]
+                    - generic [ref=f1e142]:
+                      - button "多头仓位" [ref=f1e144]:
+                        - img [ref=f1e145]:
+                          - img [ref=f1e146]
+                      - button "预测和测量工具" [ref=f1e148]:
+                        - img [ref=f1e149]:
+                          - img [ref=f1e150]
+                    - generic [ref=f1e154]:
+                      - button "笔刷" [ref=f1e156]:
+                        - img [ref=f1e157]:
+                          - img [ref=f1e158]
+                      - button "几何形状" [ref=f1e162]:
+                        - img [ref=f1e163]:
+                          - img [ref=f1e164]
+                    - generic [ref=f1e168]:
+                      - button "文字" [ref=f1e170]:
+                        - img [ref=f1e171]:
+                          - img [ref=f1e172]
+                      - button "注释工具" [ref=f1e174]:
+                        - img [ref=f1e175]:
+                          - img [ref=f1e176]
+                    - generic [ref=f1e179]:
+                      - button "图标" [ref=f1e181]:
+                        - img [ref=f1e182]:
+                          - img [ref=f1e183]
+                      - button "图标" [ref=f1e185]:
+                        - img [ref=f1e186]:
+                          - img [ref=f1e187]
+                  - generic [ref=f1e189]:
+                    - button "测量" [ref=f1e190]:
+                      - img [ref=f1e191]:
+                        - img [ref=f1e192]
+                    - button "放大" [ref=f1e194]:
+                      - img [ref=f1e195]:
+                        - img [ref=f1e196]
+                  - generic [ref=f1e204]:
+                    - button "磁铁模式会将放置在价格K线附近的绘图吸附到最近的OHLC值。" [ref=f1e206]:
+                      - img [ref=f1e207]:
+                        - img [ref=f1e208]
+                    - button "磁铁" [ref=f1e212]:
+                      - img [ref=f1e213]:
+                        - img [ref=f1e214]
+              - 'region "图表 #1" [ref=f1e220]':
+                - generic [ref=f1e224]:
+                  - generic:
+                    - generic:
+                      - toolbar:
+                        - generic:
+                          - generic [ref=f1e225]:
+                            - generic [ref=f1e226]:
+                              - generic [ref=f1e229]: X
+                              - generic [ref=f1e230]: FX:XAUUSD
+                            - generic "变更周期" [ref=f1e231]:
+                              - text: ·
+                              - button "变更周期" [ref=f1e232]: 1小时
+                          - generic:
+                            - generic:
+                              - button "更多":
+                                - generic:
+                                  - img
+                          - button "无效的商品代码" [ref=f1e234]:
+                            - img [ref=f1e235]:
+                              - img [ref=f1e236]
+                        - generic [ref=f1e239]:
+                          - generic [ref=f1e240]:
+                            - generic [ref=f1e241]: 开=
+                            - generic [ref=f1e242]: ∅
+                          - generic [ref=f1e243]:
+                            - generic [ref=f1e244]: 高=
+                            - generic [ref=f1e245]: ∅
+                          - generic [ref=f1e246]:
+                            - generic [ref=f1e247]: 低=
+                            - generic [ref=f1e248]: ∅
+                          - generic [ref=f1e249]:
+                            - generic [ref=f1e250]: 收=
+                            - generic [ref=f1e251]: ∅
+                          - generic [ref=f1e253]: ∅ (∅%)
+                  - generic "FX:XAUUSD，1 小时的图表" [ref=f1e255]
+                  - generic [ref=f1e260]:
+                    - strong [ref=f1e261]: 此商品不存在
+                    - generic [ref=f1e262]: 尝试选择另一个商品分析，您将在此处看到数据。
+            - generic [active] [ref=f1e275]:
+              - generic [ref=f1e277]: 通知
+              - paragraph [ref=f1e282]:
+                - text: 此商品代码仅在
+                - link "TradingView" [ref=f1e283] [cursor=pointer]:
+                  - /url: https://www.tradingview.com/chart/?symbol=FX%3AXAUUSD&utm_source=www.tradingview.com&utm_medium=widget&utm_campaign=chart&utm_term=FX%3AXAUUSD
+                - text: 上可用
+              - generic [ref=f1e286] [cursor=pointer]: 确认
+              - img [ref=f1e288] [cursor=pointer]
+      - generic [ref=e32]:
+        - generic [ref=e33]:
+          - generic [ref=e34]:
+            - button "1分" [ref=e35] [cursor=pointer]
+            - button "5分" [ref=e36] [cursor=pointer]
+            - button "15分" [ref=e37] [cursor=pointer]
+            - button "30分" [ref=e38] [cursor=pointer]
+            - button "1时" [ref=e39] [cursor=pointer]
+            - button "4时" [ref=e40] [cursor=pointer]
+            - button "日线" [ref=e41] [cursor=pointer]
+          - generic [ref=e42]:
+            - generic [ref=e43]: XAU/USD 黄金
+            - generic [ref=e44]: 日线
+        - table [ref=e47]:
+          - row "Charting by TradingView" [ref=e48]:
+            - cell
+            - cell "Charting by TradingView" [ref=e49]:
+              - link "Charting by TradingView" [ref=e53] [cursor=pointer]:
+                - /url: https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=localhost/
+                - img [ref=e54]
+            - cell [ref=e58]
+          - row [ref=e62]:
+            - cell
+            - cell [ref=e63]
+            - cell [ref=e67]
+    - generic [ref=e70]:
+      - generic [ref=e71]:
+        - generic [ref=e72]:
+          - text: XAUUSD 实时价格
+          - generic [ref=e73]:
+            - generic [ref=e74]: "--"
+            - generic [ref=e75]: "--"
+        - generic [ref=e76]:
+          - generic [ref=e77]:
+            - generic [ref=e78]: 当日高
+            - generic [ref=e79]: "--"
+          - generic [ref=e80]:
+            - generic [ref=e81]: 当日低
+            - generic [ref=e82]: "--"
+          - generic [ref=e83]:
+            - generic [ref=e84]: 成交量
+            - generic [ref=e85]: "--"
+          - generic [ref=e86]:
+            - generic [ref=e87]: 更新
+            - generic [ref=e88]: "--"
+      - generic [ref=e89]:
+        - generic [ref=e90]:
+          - generic [ref=e91]: 🤖
+          - generic [ref=e92]: AI 技术分析
+          - generic [ref=e93]: 免费
+        - generic [ref=e95]: 分析加载中...
+      - generic [ref=e97]: 广告位
+      - generic [ref=e98]:
+        - generic [ref=e99]:
+          - generic [ref=e100]: 📊
+          - generic [ref=e101]: 技术指标详情
+          - generic [ref=e102]: 免费
+        - generic [ref=e104]: 加载指标中...
+      - generic [ref=e105]:
+        - generic [ref=e106]:
+          - generic [ref=e107]: 📰
+          - generic [ref=e108]: 市场快讯
+          - generic [ref=e109]: 免费
+        - generic [ref=e110]:
+          - generic [ref=e113]:
+            - text: 黄金日内关注
+            - strong [ref=e114]: "--"
+          - generic [ref=e117]:
+            - text: "波动率:"
+            - strong [ref=e118]: "--"
+          - generic [ref=e121]:
+            - text: "趋势强度:"
+            - strong [ref=e122]: "--"
+      - generic [ref=e124]:
+        - generic [ref=e125]: 🔑
+        - heading "解锁 PRO 功能" [level=3] [ref=e126]
+        - list [ref=e127]:
+          - listitem [ref=e128]: ✦ 多时间框架同步分析
+          - listitem [ref=e129]: ✦ 实时价格警报推送
+          - listitem [ref=e130]: ✦ 自定义策略回测
+          - listitem [ref=e131]: ✦ 每日交易策略报告
+          - listitem [ref=e132]: ✦ Pine Script 策略下载
+        - button "升级 PRO" [ref=e133] [cursor=pointer]
+  - generic [ref=e135]: 赞助商广告位
+  - contentinfo [ref=e136]:
+    - generic [ref=e137]:
+      - generic [ref=e138]:
+        - generic [ref=e139]: ForexAI
+        - paragraph [ref=e140]: 专业外汇黄金智能分析平台
+      - generic [ref=e141]:
+        - link "隐私政策" [ref=e142] [cursor=pointer]:
+          - /url: "#"
+        - link "使用条款" [ref=e143] [cursor=pointer]:
+          - /url: "#"
+        - link "风险声明" [ref=e144] [cursor=pointer]:
+          - /url: "#"
+        - link "联系我们" [ref=e145] [cursor=pointer]:
+          - /url: "#"
+    - paragraph [ref=e147]: ⚠️ 风险提示：外汇及差价合约交易具有高风险，可能导致损失全部本金。本网站提供的分析仅供参考，不构成投资建议。
+    - generic [ref=e148]: © 2025 ForexAI. All rights reserved.

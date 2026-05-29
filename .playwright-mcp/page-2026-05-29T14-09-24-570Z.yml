@@ -1,0 +1,502 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - generic [ref=e5]: 🥇
+        - generic [ref=e6]: ForexAI
+      - generic [ref=e9]: 实盘数据
+    - navigation [ref=e10]:
+      - button "XAU/USD 黄金" [ref=e11] [cursor=pointer]:
+        - text: XAU/USD
+        - generic [ref=e12]: 黄金
+      - button "EUR/USD 欧元" [ref=e13] [cursor=pointer]:
+        - text: EUR/USD
+        - generic [ref=e14]: 欧元
+      - button "GBP/USD 英镑" [ref=e15] [cursor=pointer]:
+        - text: GBP/USD
+        - generic [ref=e16]: 英镑
+    - generic [ref=e18]: PRO
+  - generic [ref=e20]: 赞助商广告位
+  - main [ref=e21]:
+    - generic [ref=e22]:
+      - generic [ref=e23]:
+        - generic [ref=e24]:
+          - generic [ref=e25]: TradingView 图表
+          - button "📸 截图" [ref=e27] [cursor=pointer]
+        - iframe [ref=e31]:
+          - generic [active] [ref=f1e1]:
+            - generic [ref=f1e2]:
+              - toolbar [ref=f1e57]:
+                - generic [ref=f1e61]:
+                  - generic [ref=f1e63]:
+                    - radiogroup [ref=f1e64]:
+                      - radio "1 分钟" [ref=f1e65]:
+                        - generic [ref=f1e67]: 1分
+                      - radio "30 分钟" [ref=f1e68]:
+                        - generic [ref=f1e70]: 30分
+                      - radio "1 小时" [checked] [ref=f1e71]:
+                        - generic [ref=f1e73]: 1小时
+                    - button "图表周期" [ref=f1e74]:
+                      - img [ref=f1e77]:
+                        - img [ref=f1e78]
+                  - generic [ref=f1e83]:
+                    - radiogroup [ref=f1e84]:
+                      - radio "美国线" [ref=f1e85]:
+                        - img [ref=f1e86]:
+                          - img [ref=f1e87]
+                      - radio "K线图" [checked] [ref=f1e89]:
+                        - img [ref=f1e90]:
+                          - img [ref=f1e91]
+                      - radio "面积图" [ref=f1e96]:
+                        - img [ref=f1e97]:
+                          - img [ref=f1e98]
+                    - button "图表样式" [ref=f1e100]:
+                      - img [ref=f1e103]:
+                        - img [ref=f1e104]
+                  - button "比较商品" [ref=f1e109]:
+                    - img [ref=f1e110]:
+                      - img [ref=f1e111]
+                  - button "指标、衡量标准和策略" [ref=f1e118]:
+                    - img [ref=f1e119]:
+                      - img [ref=f1e120]
+                    - generic [ref=f1e123]: 指标
+              - toolbar [ref=f1e126]:
+                - generic [ref=f1e130]:
+                  - generic [ref=f1e131]:
+                    - generic [ref=f1e134]:
+                      - button "十字线" [ref=f1e136]:
+                        - img [ref=f1e137]:
+                          - img [ref=f1e138]
+                      - button "光标" [pressed] [ref=f1e142]:
+                        - img [ref=f1e143]:
+                          - img [ref=f1e144]
+                    - generic [ref=f1e148]:
+                      - button "趋势线" [ref=f1e150]:
+                        - img [ref=f1e151]:
+                          - img [ref=f1e152]
+                      - button "趋势工具" [ref=f1e156]:
+                        - img [ref=f1e157]:
+                          - img [ref=f1e158]
+                    - generic [ref=f1e162]:
+                      - button "斐波那契回撤" [ref=f1e164]:
+                        - img [ref=f1e165]:
+                          - img [ref=f1e166]
+                      - button "江恩和斐波那契工具" [ref=f1e173]:
+                        - img [ref=f1e174]:
+                          - img [ref=f1e175]
+                    - generic [ref=f1e179]:
+                      - button "XABCD形态" [ref=f1e181]:
+                        - img [ref=f1e182]:
+                          - img [ref=f1e183]
+                      - button "形态" [ref=f1e187]:
+                        - img [ref=f1e188]:
+                          - img [ref=f1e189]
+                    - generic [ref=f1e193]:
+                      - button "多头仓位" [ref=f1e195]:
+                        - img [ref=f1e196]:
+                          - img [ref=f1e197]
+                      - button "预测和测量工具" [ref=f1e199]:
+                        - img [ref=f1e200]:
+                          - img [ref=f1e201]
+                    - generic [ref=f1e205]:
+                      - button "笔刷" [ref=f1e207]:
+                        - img [ref=f1e208]:
+                          - img [ref=f1e209]
+                      - button "几何形状" [ref=f1e213]:
+                        - img [ref=f1e214]:
+                          - img [ref=f1e215]
+                    - generic [ref=f1e219]:
+                      - button "文字" [ref=f1e221]:
+                        - img [ref=f1e222]:
+                          - img [ref=f1e223]
+                      - button "注释工具" [ref=f1e225]:
+                        - img [ref=f1e226]:
+                          - img [ref=f1e227]
+                    - generic [ref=f1e230]:
+                      - button "图标" [ref=f1e232]:
+                        - img [ref=f1e233]:
+                          - img [ref=f1e234]
+                      - button "图标" [ref=f1e236]:
+                        - img [ref=f1e237]:
+                          - img [ref=f1e238]
+                  - generic [ref=f1e240]:
+                    - button "测量" [ref=f1e241]:
+                      - img [ref=f1e242]:
+                        - img [ref=f1e243]
+                    - button "放大" [ref=f1e245]:
+                      - img [ref=f1e246]:
+                        - img [ref=f1e247]
+                  - generic [ref=f1e255]:
+                    - button "磁铁模式会将放置在价格K线附近的绘图吸附到最近的OHLC值。" [ref=f1e257]:
+                      - img [ref=f1e258]:
+                        - img [ref=f1e259]
+                    - button "磁铁" [ref=f1e263]:
+                      - img [ref=f1e264]:
+                        - img [ref=f1e265]
+              - 'region "图表 #1" [ref=f1e6]':
+                - generic [ref=f1e7]:
+                  - generic [ref=f1e10]:
+                    - generic:
+                      - generic:
+                        - toolbar:
+                          - generic:
+                            - generic [ref=f1e11]:
+                              - generic [ref=f1e295]:
+                                - generic [ref=f1e13]:
+                                  - img [ref=f1e296]
+                                  - generic [ref=f1e15]: X
+                                - generic [ref=f1e297]: Apple Inc
+                              - generic "变更周期" [ref=f1e298]:
+                                - text: ·
+                                - button "变更周期" [ref=f1e299]: 1小时
+                              - generic [ref=f1e300]:
+                                - text: ·
+                                - generic [ref=f1e301]: Cboe One
+                            - generic:
+                              - generic:
+                                - button "更多":
+                                  - generic:
+                                    - img
+                            - button "开市 · 数据延迟" [ref=f1e303]:
+                              - img [ref=f1e304]:
+                                - img [ref=f1e305]
+                              - img [ref=f1e307]:
+                                - img [ref=f1e308]
+                          - generic [ref=f1e20]:
+                            - generic [ref=f1e21]:
+                              - generic [ref=f1e22]: 开=
+                              - generic [ref=f1e23]: "311.83"
+                            - generic [ref=f1e24]:
+                              - generic [ref=f1e25]: 高=
+                              - generic [ref=f1e26]: "315.00"
+                            - generic [ref=f1e27]:
+                              - generic [ref=f1e28]: 低=
+                              - generic [ref=f1e29]: "311.78"
+                            - generic [ref=f1e30]:
+                              - generic [ref=f1e31]: 收=
+                              - generic [ref=f1e32]: "313.23"
+                            - generic [ref=f1e34]: +0.74 (+0.24%)
+                      - generic:
+                        - button "隐藏指标图例" [ref=f1e310]:
+                          - img [ref=f1e312]
+                        - generic:
+                          - toolbar:
+                            - generic:
+                              - generic [ref=f1e314]:
+                                - generic "移动平均线(Moving Average)" [ref=f1e315]:
+                                  - generic [ref=f1e316]: MA
+                                - generic [ref=f1e317]:
+                                  - generic "长度" [ref=f1e318]:
+                                    - generic [ref=f1e319]: "9"
+                                  - generic [ref=f1e321]: close
+                              - generic:
+                                - generic:
+                                  - button "隐藏":
+                                    - generic:
+                                      - img
+                                  - button "设置":
+                                    - generic:
+                                      - img
+                                  - button "移除":
+                                    - generic:
+                                      - img
+                                  - button "更多":
+                                    - generic:
+                                      - img
+                            - generic "MA" [ref=f1e325]: "311.51"
+                          - toolbar:
+                            - generic:
+                              - generic "成交量(Volume)" [ref=f1e327]:
+                                - generic [ref=f1e328]: 成交量
+                              - generic:
+                                - generic:
+                                  - button "隐藏":
+                                    - generic:
+                                      - img
+                                  - button "设置":
+                                    - generic:
+                                      - img
+                                  - button "移除":
+                                    - generic:
+                                      - img
+                                  - button "更多":
+                                    - generic:
+                                      - img
+                            - generic [ref=f1e332]: 563.16 K
+                    - generic "BATS_DLY:AAPL，1 小时的图表" [ref=f1e333]
+                  - generic [ref=f1e338]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - toolbar:
+                            - generic:
+                              - generic [ref=f1e339]:
+                                - generic "相对强弱指标(Relative Strength Index)" [ref=f1e340]:
+                                  - generic [ref=f1e341]: RSI
+                                - generic [ref=f1e342]:
+                                  - generic "长度" [ref=f1e343]:
+                                    - generic [ref=f1e344]: "14"
+                                  - generic "来源" [ref=f1e345]:
+                                    - generic [ref=f1e346]: close
+                              - generic:
+                                - generic:
+                                  - button "隐藏":
+                                    - generic:
+                                      - img
+                                  - button "设置":
+                                    - generic:
+                                      - img
+                                  - button "移除":
+                                    - generic:
+                                      - img
+                                  - button "更多":
+                                    - generic:
+                                      - img
+                            - generic "RSI" [ref=f1e350]: "66.36"
+                  - generic [ref=f1e361]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - toolbar:
+                            - generic:
+                              - generic [ref=f1e362]:
+                                - generic [ref=f1e364]: MACD
+                                - generic [ref=f1e365]:
+                                  - generic "快线长度" [ref=f1e366]:
+                                    - generic [ref=f1e367]: "12"
+                                  - generic "慢线长度" [ref=f1e368]:
+                                    - generic [ref=f1e369]: "26"
+                                  - generic [ref=f1e371]: close
+                                  - generic "信号平滑" [ref=f1e372]:
+                                    - generic [ref=f1e373]: "9"
+                              - generic:
+                                - generic:
+                                  - button "隐藏":
+                                    - generic:
+                                      - img
+                                  - button "设置":
+                                    - generic:
+                                      - img
+                                  - button "移除":
+                                    - generic:
+                                      - img
+                                  - button "更多":
+                                    - generic:
+                                      - img
+                            - generic [ref=f1e375]:
+                              - generic "Histogram" [ref=f1e377]: −0.1085
+                              - generic [ref=f1e379]: "1.44"
+                              - generic "Signal" [ref=f1e381]: "1.55"
+            - generic:
+              - generic:
+                - generic:
+                  - generic: MACD
+      - generic [ref=e32]:
+        - generic [ref=e33]:
+          - generic [ref=e34]:
+            - button "1分" [ref=e35] [cursor=pointer]
+            - button "5分" [ref=e36] [cursor=pointer]
+            - button "15分" [ref=e37] [cursor=pointer]
+            - button "30分" [ref=e38] [cursor=pointer]
+            - button "1时" [ref=e39] [cursor=pointer]
+            - button "4时" [ref=e40] [cursor=pointer]
+            - button "日线" [ref=e41] [cursor=pointer]
+          - generic [ref=e42]:
+            - generic [ref=e43]: XAUUSD
+            - generic [ref=e44]: 15分钟
+        - table [ref=e47]:
+          - row "Charting by TradingView" [ref=e48]:
+            - cell
+            - cell "Charting by TradingView" [ref=e49]:
+              - link "Charting by TradingView" [ref=e53] [cursor=pointer]:
+                - /url: https://www.tradingview.com/?utm_medium=lwc-link&utm_campaign=lwc-chart&utm_source=localhost/
+                - img [ref=e54]
+            - cell [ref=e58]
+          - row [ref=e62]:
+            - cell
+            - cell [ref=e63]
+            - cell [ref=e67]
+    - generic [ref=e70]:
+      - generic [ref=e71]:
+        - generic [ref=e72]:
+          - text: XAUUSD 实时价格
+          - generic [ref=e73]:
+            - generic [ref=e74]: "4549.17"
+            - generic [ref=e75]: +52.80 (+1.174%)
+        - generic [ref=e76]:
+          - generic [ref=e77]:
+            - generic [ref=e78]: 当日高
+            - generic [ref=e79]: "4549.59"
+          - generic [ref=e80]:
+            - generic [ref=e81]: 当日低
+            - generic [ref=e82]: "4489.49"
+          - generic [ref=e83]:
+            - generic [ref=e84]: 成交量
+            - generic [ref=e85]: "--"
+          - generic [ref=e86]:
+            - generic [ref=e87]: 更新
+            - generic [ref=e88]: 22:09:23
+      - generic [ref=e89]:
+        - generic [ref=e90]:
+          - generic [ref=e91]: 🤖
+          - generic [ref=e92]: AI 技术分析
+          - generic [ref=e93]: 免费
+        - generic [ref=e94]:
+          - button "单周期" [ref=e95] [cursor=pointer]
+          - button "多时间框架" [ref=e96] [cursor=pointer]
+        - generic [ref=e232]:
+          - generic [ref=e233]:
+            - generic [ref=e234]: 多周期共振
+            - generic [ref=e235]: ↗️ 偏多
+            - generic [ref=e236]: 1小时:偏多 | 4小时:偏多 | 日线:观望
+          - generic [ref=e237]:
+            - generic [ref=e238]:
+              - generic [ref=e239]: 1小时
+              - generic [ref=e240]: "4549.17"
+            - generic [ref=e241]:
+              - generic [ref=e242]:
+                - generic [ref=e243]: 趋势
+                - generic [ref=e244]: 📈 上升
+              - generic [ref=e245]:
+                - generic [ref=e246]: RSI(14)
+                - generic [ref=e247]: "68.9"
+              - generic [ref=e248]:
+                - generic [ref=e249]: MACD
+                - generic [ref=e250]: "20.58"
+              - generic [ref=e251]:
+                - generic [ref=e252]: SMA20
+                - generic [ref=e253]: "4514.62"
+              - generic [ref=e254]:
+                - generic [ref=e255]: SMA50
+                - generic [ref=e256]: "4465.21"
+              - generic [ref=e257]:
+                - generic [ref=e258]: ATR
+                - generic [ref=e259]: "17.16"
+              - generic [ref=e261]: ⚪ 偏多
+          - generic [ref=e262]:
+            - generic [ref=e263]:
+              - generic [ref=e264]: 4小时
+              - generic [ref=e265]: "4549.17"
+            - generic [ref=e266]:
+              - generic [ref=e267]:
+                - generic [ref=e268]: 趋势
+                - generic [ref=e269]: 📈 上升
+              - generic [ref=e270]:
+                - generic [ref=e271]: RSI(14)
+                - generic [ref=e272]: "60.7"
+              - generic [ref=e273]:
+                - generic [ref=e274]: MACD
+                - generic [ref=e275]: "1.43"
+              - generic [ref=e276]:
+                - generic [ref=e277]: SMA20
+                - generic [ref=e278]: "4482.29"
+              - generic [ref=e279]:
+                - generic [ref=e280]: SMA50
+                - generic [ref=e281]: "4507.88"
+              - generic [ref=e282]:
+                - generic [ref=e283]: ATR
+                - generic [ref=e284]: "34.35"
+              - generic [ref=e286]: ⚪ 偏多
+          - generic [ref=e287]:
+            - generic [ref=e288]:
+              - generic [ref=e289]: 日线
+              - generic [ref=e290]: "4549.17"
+            - generic [ref=e291]:
+              - generic [ref=e292]:
+                - generic [ref=e293]: 趋势
+                - generic [ref=e294]: 📉 下降
+              - generic [ref=e295]:
+                - generic [ref=e296]: RSI(14)
+                - generic [ref=e297]: "47.4"
+              - generic [ref=e298]:
+                - generic [ref=e299]: MACD
+                - generic [ref=e300]: "-41.01"
+              - generic [ref=e301]:
+                - generic [ref=e302]: SMA20
+                - generic [ref=e303]: "4567.92"
+              - generic [ref=e304]:
+                - generic [ref=e305]: SMA50
+                - generic [ref=e306]: "4650.95"
+              - generic [ref=e307]:
+                - generic [ref=e308]: ATR
+                - generic [ref=e309]: "80.43"
+              - generic [ref=e311]: ⚪ 观望
+      - generic [ref=e143]: 广告位
+      - generic [ref=e144]:
+        - generic [ref=e145]:
+          - generic [ref=e146]: 📊
+          - generic [ref=e147]: 技术指标详情
+          - generic [ref=e148]: 免费
+        - generic [ref=e312]:
+          - generic [ref=e313]:
+            - generic [ref=e314]:
+              - generic [ref=e315]: RSI (14)
+              - generic [ref=e316]: "68.7"
+            - generic [ref=e317]: 中性
+          - generic [ref=e318]:
+            - generic [ref=e319]:
+              - generic [ref=e320]: MACD (12,26,9)
+              - generic [ref=e321]: "20.54"
+            - generic [ref=e322]: 信号 16.58 | 柱 3.96
+          - generic [ref=e324]:
+            - generic [ref=e325]: SMA 20
+            - generic [ref=e326]: "4514.59"
+          - generic [ref=e328]:
+            - generic [ref=e329]: SMA 50
+            - generic [ref=e330]: "4465.20"
+          - generic [ref=e332]:
+            - generic [ref=e333]: SMA 200
+            - generic [ref=e334]: "4507.06"
+          - generic [ref=e336]:
+            - generic [ref=e337]: 布林带上轨
+            - generic [ref=e338]: "4549.01"
+          - generic [ref=e339]:
+            - generic [ref=e340]:
+              - generic [ref=e341]: 布林带下轨
+              - generic [ref=e342]: "4480.17"
+            - generic [ref=e343]: "带宽: 1.52%"
+          - generic [ref=e345]:
+            - generic [ref=e346]: ATR (14)
+            - generic [ref=e347]: $17.16
+      - generic [ref=e186]:
+        - generic [ref=e187]:
+          - generic [ref=e188]: 📰
+          - generic [ref=e189]: 市场快讯
+          - generic [ref=e190]: 免费
+        - generic [ref=e191]:
+          - generic [ref=e194]:
+            - text: 黄金日内关注
+            - strong [ref=e195]: 关注阻力 4773.50 突破
+          - generic [ref=e198]:
+            - text: "波动率:"
+            - strong [ref=e199]: ATR $17.16 (0.38%)
+          - generic [ref=e202]:
+            - text: "趋势强度:"
+            - strong [ref=e203]: 📈 强烈上升
+      - generic [ref=e205]:
+        - generic [ref=e206]: 🔑
+        - heading "解锁 PRO 功能" [level=3] [ref=e207]
+        - list [ref=e208]:
+          - listitem [ref=e209]: ✦ 多时间框架同步分析
+          - listitem [ref=e210]: ✦ 实时价格警报推送
+          - listitem [ref=e211]: ✦ 自定义策略回测
+          - listitem [ref=e212]: ✦ 每日交易策略报告
+          - listitem [ref=e213]: ✦ Pine Script 策略下载
+        - button "升级 PRO" [ref=e214] [cursor=pointer]
+  - generic [ref=e216]: 赞助商广告位
+  - contentinfo [ref=e217]:
+    - generic [ref=e218]:
+      - generic [ref=e219]:
+        - generic [ref=e220]: ForexAI
+        - paragraph [ref=e221]: 专业外汇黄金智能分析平台
+      - generic [ref=e222]:
+        - link "隐私政策" [ref=e223] [cursor=pointer]:
+          - /url: "#"
+        - link "使用条款" [ref=e224] [cursor=pointer]:
+          - /url: "#"
+        - link "风险声明" [ref=e225] [cursor=pointer]:
+          - /url: "#"
+        - link "联系我们" [ref=e226] [cursor=pointer]:
+          - /url: "#"
+    - paragraph [ref=e228]: ⚠️ 风险提示：外汇及差价合约交易具有高风险，可能导致损失全部本金。本网站提供的分析仅供参考，不构成投资建议。
+    - generic [ref=e229]: © 2025 ForexAI. All rights reserved.
